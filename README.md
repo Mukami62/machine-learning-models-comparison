@@ -1,8 +1,8 @@
-AI Assistant Usage in Student Life (Synthetic Dataset)
+**AI Assistant Usage in Student Life (Synthetic Dataset)**
 
 This project analyzes a synthetic dataset of student interactions with AI assistants. The goal is to explore session patterns, visualize trends, engineer features, and apply classification models to predict outcomes like FinalOutcome and UsedAgain.
 
-Project Overview
+***Project Overview***
 
 Performed data cleaning (checked missing values, encoded categorical features, scaled numeric data).
 
@@ -14,7 +14,7 @@ Engineered features such as PromptsPerMinute and session length bins.
 
 Trained multiple machine learning models to predict student outcomes.
 
-Methods Implemented
+***Methods Implemented***
 
 Exploratory Data Analysis (EDA) and summary statistics.
 
@@ -26,7 +26,7 @@ Classification models: Logistic Regression, Decision Tree, Random Forest, KNN, N
 
 Model evaluation with accuracy, confusion matrix, classification report, and cross-validation.
 
-Results
+***Results***
 
 Graduate students tended to have longer sessions on average.
 
@@ -36,7 +36,7 @@ Random Forest and XGBoost outperformed other models on FinalOutcome prediction.
 
 Feature engineering (PromptsPerMinute) improved predictive accuracy.
 
-Future Work
+***Future Work***
 
 Test deep learning models for outcome prediction.
 
